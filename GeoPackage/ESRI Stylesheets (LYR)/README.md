@@ -1,4 +1,4 @@
-# OS Open Zoomstack LYR Files
+# OS MasterMap Water Network LYR Files
 These are LYR Files for OS MasterMap Water Network for use in ESRI ArcGIS and ArcGIS Pro.
 
 *They have been designed to work with the data as it is supplied.*
