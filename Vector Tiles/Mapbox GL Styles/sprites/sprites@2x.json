@@ -1,0 +1,16 @@
+{
+  "gradient1": {
+    "height": 50,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 0,
+    "y": 0
+  },
+  "gradient2": {
+    "height": 50,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 50,
+    "y": 0
+  }
+}
