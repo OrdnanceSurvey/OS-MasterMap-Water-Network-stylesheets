@@ -6,7 +6,7 @@
     "mmwngb": {
       "type": "vector",
       "tiles": [
-        "https://labs.os.uk/tiles/vector/osmm-networks-water/{z}/{x}/{y}.pbf"
+        "https://example.com/tiles/vector/osmm-networks-water/{z}/{x}/{y}.pbf"
       ],
       "minzoom": 9,
       "maxzoom": 15
