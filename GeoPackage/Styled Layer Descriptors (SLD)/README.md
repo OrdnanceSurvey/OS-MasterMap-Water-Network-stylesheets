@@ -1,5 +1,5 @@
 # OS MasterMap Water Network - SLD
-These are the SLD files for OS MasterMap Water Network. They were created using GeoServer.
+These are the **SLD** files for OS MasterMap Water Network in **Geopackage format**. They were created using **GeoServer**.
 
 *They have been designed to work with the data as it is supplied.*
 
@@ -14,7 +14,7 @@ Create a Layer Group with the Water Nodes layer above the Water Network layer.
 ## Additional information
 [More information about OS MasterMap Water Network, including a Getting Started Guide](https://www.ordnancesurvey.co.uk/business-government/products/mastermap-water)
 
-[More information about cartographic design at Ordnance Survey](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit) 
+[For more information about data styling and visualisation, take a look at our GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
 
 ## Licence
 By using these stylesheets you are accepting the terms of the Open Government Licence. 
