@@ -10,7 +10,7 @@ We are supplying the fonts and sprites if you want to use the styles offline/loc
 ## Additional information
 [More information about OS MasterMap Water Network, including a Getting Started Guide](https://www.ordnancesurvey.co.uk/business-government/products/mastermap-water)
 
-[More information about cartographic design at Ordnance Survey](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit) 
+[For more information about data styling and visualisation, take a look at our GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
 
 ## Licence
 By using these stylesheets you are accepting the terms of the Open Government Licence
